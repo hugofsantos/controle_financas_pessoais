@@ -1,0 +1,14 @@
+{
+  "name": "financas_pessoais",
+  "version": "1.0.0",
+  "description": "Projeto simples de gerenciamento de finanças pessoais",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch ./database/db.json"
+  },
+  "author": "hugofsantos",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
